@@ -1,3 +1,6 @@
+Warning: don't use prebuilt images, ssh server-keys are generated on build-time
+See: [https://github.com/rastasheep/ubuntu-sshd/issues/13)]
+
 # Ubuntu-sshd
 
 Dockerized SSH service, built on top of [official Ubuntu](https://registry.hub.docker.com/_/ubuntu/) images.
